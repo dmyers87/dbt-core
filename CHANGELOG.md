@@ -1,3 +1,8 @@
+## dbt 0.17.1 (Release TBD)
+
+### Fixes
+- `dbt deps` now respects the `--project-dir` flag, so using `dbt deps --project-dir=/some/path` and then `dbt run --project-dir=/some/path` will properly find dependencies ([#2519](https://github.com/fishtown-analytics/dbt/issues/2519), [#2534](https://github.com/fishtown-analytics/dbt/pull/2534))
+
 ## dbt 0.17.0 (June 08, 2020)
 
 ### Fixes
