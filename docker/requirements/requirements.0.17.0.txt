@@ -37,7 +37,7 @@ minimal-snowplow-tracker==0.0.2
 networkx==2.4
 oscrypto==1.2.0
 parsedatetime==2.6
-protobuf==3.11.3
+protobuf==3.18.3
 psycopg2-binary==2.8.5
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
